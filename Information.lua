@@ -1,5 +1,5 @@
 return {
-Token = "5024974736:AAHelz4LKkr91005oH5_opozYr0n539grO0",
-UserBot = "rigbot",
-UserSudo = "DevZaid",
-SudoId = 5117901887}
+Token = "6378849075:AAFDTedNEJcgFys-vmK7Uvh9pVMaqg6Izco",
+UserBot = "K_VKBoT",
+UserSudo = "R_c_BS",
+SudoId = 5939495103}
